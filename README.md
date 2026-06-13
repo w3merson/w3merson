@@ -1,4 +1,6 @@
-# <img src="https://readme-typing-svg.demolab.com?font=OCR-A&size=30&duration=4000&pause=1000&color=4A6FA5&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=OCR-A&size=30&duration=4000&pause=1000&color=4A6FA5&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" />
+</p>
 
 <!--
 **w3merson/w3merson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
