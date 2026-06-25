@@ -3,7 +3,7 @@
 <h2 align="center"> <code>&lt;Hello World! I'm <b>Wemerson Carneiro</b>! /&gt;</code></h2>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4A6FA5&width=900&size=27&center=true&lines=Welcome+to+my+profile!;Desenvolvedor+Back-End;Entusiasta+Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=4A6FA5&width=900&size=27&center=true&lines=Welcome+to+my+profile!;Loading+Back-End+Developer;Linux+Enthusiast" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,arch,github" />
+    <img src="https://skillicons.dev/icons?i=python,git,linux" />
   </a>
 </p>
 
